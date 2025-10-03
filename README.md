@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 ---
 
 # 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gajendra-bal-09483b23a/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white)](https://gajendra-bal-07kjwz8.gamma.site/)  
 
 ---
 
@@ -63,8 +63,8 @@ Here are some ideas to get you started:
 
 # 🚀 Featured Projects  
 - 🛡️ Fraud Detection App (Streamlit + scikit-learn)  
-- 🤖 AI Personal Assistant (Multilingual, Task Automation)  
-- 📚 Book-to-Notes Generator (PDF → Notes + Q&A)  
+- 🤖 Web Scrapping Application
+- 📚 To do Application
 
 ---
 
