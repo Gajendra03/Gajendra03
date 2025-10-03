@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&lines=Hi%2C+I'm+Gajendra+👋;AI+%26+ML+Enthusiast+🚀; Python+%7C+Streamlit+%7C+scikit-learn;Always+learning+new+things+🌱" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&lines=Hi%2C+I'm+Gajendra+👋;AI+%26+ML+Enthusiast+🚀;Python+%7C+Streamlit+%7C+scikit-learn;Always+learning+new+things+🌱" />
 </p>
 
 ---
